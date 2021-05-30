@@ -1,8 +1,8 @@
 # void-clicker
 AutoClicker and AutoRod for Minecraft, more features coming soon.
 
-v0.4 Fixed blatant mode 
+v0.5 Added keypress and update checker 
 
-![unknown (2)](https://user-images.githubusercontent.com/82592303/117572717-cf2c1b00-b0dc-11eb-9201-99d97eb534f2.png)
 
-![unknown (1)](https://user-images.githubusercontent.com/82592303/117572686-ad329880-b0dc-11eb-8fe1-6d3e1c8b3cc7.png)
+![unknown](https://user-images.githubusercontent.com/82592303/120114240-e368b280-c186-11eb-8ccc-194ec7a4f1f8.png)
+![unknown (1)](https://user-images.githubusercontent.com/82592303/120114241-e4014900-c186-11eb-9522-bf66d2e98708.png)
